@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkReauest</string>
+    <string name="msg_data_load_fail">Failed To load data</string>
+</resources>
